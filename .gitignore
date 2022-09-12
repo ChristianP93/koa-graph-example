@@ -1,0 +1,8 @@
+node_modules
+.env
+.env.test
+
+config/default.yml
+config/test.yml
+
+coverage
